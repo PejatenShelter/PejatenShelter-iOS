@@ -1,0 +1,11 @@
+/* 
+  Localization.strings
+  PejatenShelterApp
+
+  Created by Joanda Febrian on 02/05/22.
+  
+*/
+
+"neverOwnedPets" = "Tidak Pernah Memelihara";
+"usedToOwnPets" = "Pernah Tapi Sedang Tidak Memelihara";
+"currentlyOwningPets" = "Pernah dan Masih Memelihara";
